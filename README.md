@@ -1,2 +1,5 @@
 # KEYB0ARD
-Minimalist mac styled keyboard with touchscreen lcd for shortcut navigation!
+Minimalist Mac Styled Keyboard
+LCD Display
+Weather, Time, Battery percentage etc.
+Created in KiCad!
